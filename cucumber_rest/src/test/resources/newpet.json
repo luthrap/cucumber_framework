@@ -1,0 +1,18 @@
+{
+  "id": 127,
+  "category": {
+    "id": 0,
+    "name": "string"
+  },
+  "name": "Sample Test",
+  "photoUrls": [
+    "string"
+  ],
+  "tags": [
+    {
+      "id": 0,
+      "name": "string"
+    }
+  ],
+  "status": "available"
+}
